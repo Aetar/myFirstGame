@@ -3,7 +3,9 @@
 #features i want to have in this hope somebody will help me with it
 /*In the selection menu I want the program to return to the selection menu after an invalid selection,
 The game play surely don't look like a game wish i knew the way to clear the screen rather then new 
-lines comming down the screen */
+lines comming down the screen
+there must be a way to pause or return to the main menu after the game play completes,the console just closed 
+after the game play finished.to stop that i put the input() function in line 106 */
 
 
 import random
